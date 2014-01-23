@@ -1,0 +1,4 @@
+to associate, with each symbol of the alphabet being encoded, its corresponding leaf.
+This array also records the frequency of each character. Third, we need FOREST,
+a Priority Queue of structs that represent the trees themselves. The type of these
+structs is
